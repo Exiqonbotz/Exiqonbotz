@@ -1,21 +1,21 @@
-<h1 align="center" style="color: #ff4d4d;">🔥 Exiqonbotz – Gründer von Phoenix 🔥</h1>
-<h3 align="center" style="color: #ff9999;">🚀 WhatsApp Multibot System – Modular. Sicher. Selbstgehostet.</h3>
+<h1 align="center"> Exiqonbotz 👑</h1>
+<h3 align="center"> Gründer von Phoenix – dem fortschrittlichen WhatsApp-Multibot-System.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=FF4D4D&width=450&lines=🔥+Fullstack+Dev+aus+Berlin;🔥+PhoenixBot+–+Next+Gen+WA+System;🔥+Selfhosting+f%C3%BCr+alle;🔥+Open+Source+mit+Leidenschaft" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=FF4D4D&width=450&lines=🔥+Dev+aus+Deutschland;🔥+PhoenixBot+–+Next+Gen+WA+Bot;🔥+Selfhosting+f%C3%BCr+alle;🔥 alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 Aktuelles Projekt
 
-[![Phoenix](https://img.shields.io/badge/🔥%20Phoenix%20Bot-Aktiv%20in%20Entwicklung-ff4d4d?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/Exiqonbotz/Phoenix)
-[![Clone-System](https://img.shields.io/badge/Session-System-Multi-ff3333?style=for-the-badge)](https://github.com/Exiqonbotz)
+[![Phoenix-Baileys](https://img.shields.io/badge/🔥%20Phoenix%20Baileys-Aktiv%20in%20Entwicklung-ff4d4d?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/Exiqonbotz/phoenix-baileys-v2)
 
-- 💡 Selbstgehostet & modular
-- 🧠 Session-Manager, Auto-Restart, Anti-Crash
-- 🔄 PM2 gesteuert, MongoDB integriert
-- ⚙️ Add-ons: Games, Anti-Spam, Economy, Dashboard
+
+- 💻 Selfhosting für alle: `Phoenix🐦‍🔥` ist vollständig offen und modulbasiert
+- 🧠 100% Codekontrolle – keine Abhängigkeit von fremden Instanzen
+- 🛠️ Multi-Session, PM2,Node.js
+- 📦 Unterstützt Add-ons, Spiele, Economy, Filter, u.v.m.
 
 ---
 
@@ -52,13 +52,13 @@
 
 ---
 
-## 🌐 Kontakt & Netzwerk
+## 🌐 Kontakte & Links
 
 <p align="center">
-  <a href="https://t.me/Exiqon"><img src="https://img.shields.io/badge/Telegram-Exiqon-ff4d4d?style=for-the-badge&logo=telegram" /></a>
-  <a href="https://discord.gg/DEINLINK"><img src="https://img.shields.io/badge/Discord-Join%20Community-ff3333?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://phoenixbot.de"><img src="https://img.shields.io/badge/Website-phoenixbot.de-ff6666?style=for-the-badge&logo=firefox-browser" /></a>
-  <a href="mailto:kontakt@phoenixbot.de"><img src="https://img.shields.io/badge/Email-kontakt@phoenixbot.de-ff4d4d?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://t.me/Exiqonoff2"><img src="https://img.shields.io/badge/Telegram-Exiqon-0088cc?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://discord.gg/kMCGH3xFAw"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://phoenixgermany.com"><img src="https://img.shields.io/badge/Website-phoenixbot.de-orange?style=for-the-badge&logo=firefox-browser" /></a>
+  <a href="mailto:phoenixgermanycontact@gmail.com"><img src="https://img.shields.io/badge/Mail-Kontakt-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -72,5 +72,4 @@
 ## 💬 Zitat
 
 > „Wer mit Feuer baut, braucht keine Sicherungen – er braucht Kontrolle.“ 🔥  
-> – Exiqon, 2025
 
