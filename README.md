@@ -1,53 +1,75 @@
-<h1 align="center">Hey, ich bin Exiqon 👋</h1>
-<h3 align="center">Gründer von Phoenix – dem WhatsApp Multibot 🌃</h3>
+<h1 align="center"> Exiqonbotz 👑</h1>
+<h3 align="center"> Gründer von Phoenix – dem fortschrittlichen WhatsApp-Multibot-System.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Exiqonbotz&label=Profilaufrufe&color=blue&style=flat" alt="Profilaufrufe" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=⚙️+Fullstack+Dev+%7C+Node.js%2C+TypeScript%2C+MongoDB;👨‍💻+Gründer+von+Phoenix+Bot+System;📲+WhatsApp+Automatisierung+in+Profi-Form;💬+Open+Source+ist+meine+DNA" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔧 Aktuelles Projekt: **Phoenix – Selfhost-fähiger WhatsApp Bot**
-- ⚙️ Tech-Stack: **Node.js · Docker · PM2 · APIs**
-- 🧠 Fokus: **Bot-Architektur · Session-Management · DevOps**
-- 🎯 Ziel: **Kostenloser, modulare und mächtige WhatsApp-Bot**
+## 🚀 Aktuelles Projekt
+
+[![Phoenix Repo](https://img.shields.io/badge/Phoenix%20Bot-%F0%9F%94%A5%20Active%20Development-green?style=for-the-badge&logo=whatsapp)](https://github.com/Exiqonbotz/Phoenix)
+[![MultiSession](https://img.shields.io/badge/Multi--Session%20Bots-%F0%9F%94%97%20unterstützt-blueviolet?style=for-the-badge)](https://github.com/Exiqonbotz)
+
+- 💻 Selfhosting für alle: `Phoenix🐦‍🔥` ist vollständig offen und modulbasiert
+- 🧠 100% Codekontrolle – keine Abhängigkeit von fremden Instanzen
+- 🛠️ Multi-Session, PM2,Node.js
+- 📦 Unterstützt Add-ons, Spiele, Economy, Filter, u.v.m.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PM2](https://img.shields.io/badge/-PM2-black?style=flat-square&logo=pm2)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,mongodb,docker,git,linux,github,html,react" />
+</p>
 
 ---
 
-## 🔥 GitHub Stats
+## 📊 GitHub Stats
 
-![Exiqon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Exiqonbotz&show_icons=true&theme=tokyonight&hide=issues&custom_title=Exiqon%27s%20GitHub%20Stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exiqonbotz&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Exiqonbotz&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="Exiqon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exiqonbotz&layout=compact&theme=tokyonight&hide_border=true" alt="Exiqon's Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophäen
 
-[![Trophäen](https://github-profile-trophy.vercel.app/?username=Exiqonbotz&theme=tokyonight&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Exiqonbotz&theme=tokyonight&row=1&column=7" alt="Trophäen" />
+</p>
 
 ---
 
-## 🔁 GitHub Streak
+## 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Exiqonbotz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Exiqonbotz&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
 ---
 
-## 🌐 Connect mit mir
+## 🌐 Kontakte & Links
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram)](https://t.me/Exiqonoff2)
-[![Phoenix Discord](https://img.shields.io/badge/Discord%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/kMCGH3xFAw)
-[![Phoenix Website](https://img.shields.io/badge/Phoenix%20Website-grey?logo=googlechrome)](https://phoenixgermany.com)
+<p align="center">
+  <a href="https://t.me/Exiqonoff2"><img src="https://img.shields.io/badge/Telegram-Exiqon-0088cc?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://discord.gg/kMCGH3xFAw"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://phoenixgermany.com"><img src="https://img.shields.io/badge/Website-phoenixbot.de-orange?style=for-the-badge&logo=firefox-browser" /></a>
+  <a href="mailto:phoenixgermanycontact@gmail.com"><img src="https://img.shields.io/badge/Mail-Kontakt-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Exiqonbotz/Exiqonbotz/raw/main/assets/phoenix-logo.png" height="100" alt="Phoenix Logo" />
+</p>
+
+---
+
+## 💡 Zitat zum Schluss
+
+> *„Wer Bots meistert, beherrscht die Kommunikation der Zukunft.“ – Exiqon 2025*
+
