@@ -64,7 +64,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Exiqonbotz/Exiqonbotz/raw/main/assets/phoenix-phoenix.png" height="100" alt="Phoenix Logo" />
+  <img src="https://github.com/Exiqonbotz/Exiqonbotz/phoenix.png" height="100" alt="Phoenix Logo" />
 </p>
 
 ---
