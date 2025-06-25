@@ -14,7 +14,7 @@
 
 - 💻 Selfhosting für alle: `Phoenix🐦‍🔥` ist vollständig offen und modulbasiert
 - 🧠 100% Codekontrolle – keine Abhängigkeit von fremden Instanzen
-- 🛠️ Multi-Session, PM2,Node.js
+- 🛠️ Multi-Device, PM2,Node.js
 - 📦 Unterstützt Add-ons, Spiele, Economy, Filter, u.v.m.
 
 ---
