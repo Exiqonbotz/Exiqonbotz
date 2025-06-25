@@ -55,9 +55,9 @@
 ## 🌐 Kontakte & Links
 
 <p align="center">
-  <a href="https://t.me/Exiqonoff2"><img src="https://img.shields.io/badge/Telegram-Exiqon-0088cc?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/Exiqonoff2"><img src="https://img.shields.io/badge/Telegram-Exiqonoff2-0088cc?style=for-the-badge&logo=telegram" /></a>
   <a href="https://discord.gg/kMCGH3xFAw"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://phoenixgermany.com"><img src="https://img.shields.io/badge/Website-phoenixbot.de-orange?style=for-the-badge&logo=firefox-browser" /></a>
+  <a href="https://phoenixgermany.com"><img src="https://img.shields.io/badge/Website-phoenixgermany.com-orange?style=for-the-badge&logo=firefox-browser" /></a>
   <a href="mailto:phoenixgermanycontact@gmail.com"><img src="https://img.shields.io/badge/Mail-Kontakt-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
