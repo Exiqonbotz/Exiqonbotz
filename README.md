@@ -22,7 +22,7 @@
 ## 🔧 Mein Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,javascript,mongodb,docker,git,linux,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb,git,&theme=dark" />
 </p>
 
 ---
