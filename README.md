@@ -136,12 +136,7 @@
   <a href="https://discord.gg/kMCGH3xFAw"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://phoenixgermany.com"><img src="https://img.shields.io/badge/Website-phoenixgermany.com-orange?style=for-the-badge&logo=firefox-browser" /></a>
   <a href="mailto:phoenixgermanycontact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Exiqonbotz/Exiqonbotz/raw/main/assets/phoenix.png" height="100" alt="Phoenix Logo" />
+  <a href="https://wa.me/491741711168"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
