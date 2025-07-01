@@ -1,13 +1,13 @@
 <h1 align="center"> Exiqonbotz 👑</h1>
 
-<h3 align="center"> Gründer von Phoenix🐦‍🔥 – dem fortschrittlichen WhatsApp-Multibot-System.</h3>
-<h3 align="center"> Founder of Phoenix🐦‍🔥 – the advanced WhatsApp multi-bot system.</h3>
+<h3 align="center">Gründer von Phoenix🐦‍🔥 – dem fortschrittlichen WhatsApp-Multibot-System.</h3>
+<h3 align="center">Founder of Phoenix🐦‍🔥 – the advanced WhatsApp multi-bot system.</h3>
 
 <p align="center">
-  <b>🔥 Dev aus Deutschland | Dev from Germany</b><br>
-  <b>🔥 Phoenix-Bot – Next Gen WA Bot</b><br>
-  <b>🔥 Selfhosting für alle | Selfhosting for everyone</b><br>
-  <b>🔥 Leidenschaftlicher Coder | Passionate Coder</b>
+<b>🔥 Dev aus Deutschland | Dev from Germany</b><br>
+<b>🔥 Phoenix-Bot – Next Gen WA Bot</b><br>
+<b>🔥 Selfhosting für alle | Selfhosting for everyone</b><br>
+<b>🔥 Leidenschaftlicher Coder | Passionate Coder</b>
 </p>
 
 
