@@ -17,11 +17,6 @@
 
 [![Phoenix-Baileys](https://img.shields.io/badge/🔥%20Phoenix%20Baileys-Aktiv%20in%20Entwicklung%20%7C%20Actively%20in%20Development-ff4d4d?style=for-the-badge&logo=whatsapp&logoColor=white)](https://github.com/Exiqonbotz/phoenix-baileys-v2)
 
-- 💻 **Selfhosting für alle / Selfhosting for everyone:** 
-- 🧠 **100 % Kontrolle / full control:** keine Fremdabhängigkeit  
-- 🛠️ Multi-Device, PM2, Node.js  
-- 📦 Add-ons, Spiele, Economy, Filter & mehr / add-ons, games, filters & more
-
 ---
 
 ## 🔧 Mein Tech Stack | My Tech Stack
