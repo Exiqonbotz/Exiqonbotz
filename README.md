@@ -1,7 +1,7 @@
-# 👑 Exiqonbotz
+<h1 align="center"> Exiqonbotz 👑</h1>
 
-### 🇩🇪 Gründer von Phoenix – dem fortschrittlichen WhatsApp-Multibot-System  
-### 🇬🇧 Founder of Phoenix – the advanced WhatsApp multi-bot system
+### Gründer von Phoenix – dem fortschrittlichen WhatsApp-Multibot-System  
+### Founder of Phoenix – the advanced WhatsApp multi-bot system
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=FF4D4D&width=480&lines=🔥+Dev+aus+Deutschland+%7C+Dev+from+Germany;🔥+Phoenix-Bot+–+Next+Gen+WA+Bot;🔥+Selfhosting+für+alle+%7C+Selfhosting+for+everyone;🔥+Leidenschaftlicher+Coder+%7C+Passionate+Coder" alt="Typing SVG" />
