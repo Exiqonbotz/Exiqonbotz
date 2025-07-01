@@ -4,7 +4,10 @@
 <h3 align="center"> Founder of Phoenix – the advanced WhatsApp multi-bot system.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=FF4D4D&width=450&lines=🔥+Dev+aus+Deutschland+%7C+Dev+from+Germany;🔥+Phoenix-Bot+–+Next+Gen+WA+Bot;🔥+Selfhosting+für+alle+%7C+Selfhosting+for+everyone;🔥+Leidenschaftlicher+Coder+%7C+Passionate+Coder" alt="Typing SVG" />
+  <b>🔥 Dev aus Deutschland | Dev from Germany</b><br>
+  <b>🔥 Phoenix-Bot – Next Gen WA Bot</b><br>
+  <b>🔥 Selfhosting für alle | Selfhosting for everyone</b><br>
+  <b>🔥 Leidenschaftlicher Coder | Passionate Coder</b>
 </p>
 
 
