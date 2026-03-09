@@ -1,62 +1,67 @@
 <h1 align="center">👑 Exiqon</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=FF4D4D&center=true&vCenter=true&width=600&lines=Founder+of+Phoenix+%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5;Next+Generation+WhatsApp+Bot+Developer;Building+the+Phoenix+Ecosystem" />
+Founder of <b>Phoenix 🐦‍🔥</b><br>
+Building a next-generation WhatsApp Bot Ecosystem
 </p>
 
 <p align="center">
-<b>Gründer von Phoenix 🐦‍🔥</b><br>
-Fortschrittliches WhatsApp Multibot System
-</p>
-
-<p align="center">
-<b>Founder of Phoenix 🐦‍🔥</b><br>
-Advanced WhatsApp Multi-Bot System
+Gründer von <b>Phoenix 🐦‍🔥</b><br>
+Entwickler eines fortschrittlichen WhatsApp Bot-Ökosystems
 </p>
 
 ---
 
 <p align="center">
-<img src="https://github.com/Exiqonbotz/Exiqonbotz/raw/main/assets/phoenix.png" height="140"/>
+<img src="https://github.com/Exiqonbotz/Exiqonbotz/raw/main/assets/phoenix.png" height="150">
 </p>
 
 ---
 
 # 🐦‍🔥 Phoenix Ecosystem
 
-Phoenix ist ein **Next Generation WhatsApp Bot System**,  
-das ein komplettes **Bot-Ökosystem** bereitstellt.
+Phoenix ist ein **WhatsApp Multi-Bot System**, das sich von einem kleinen Moderations-Bot zu einer kompletten Plattform entwickelt hat.
 
-Phoenix is a **next generation WhatsApp bot ecosystem**  
-with selfhosting and multi-bot infrastructure.
+Phoenix started as a small moderation bot and evolved into a **full WhatsApp bot ecosystem**.
 
-### Features
+### Core Components
 
-• Multi Device Bot System  
-• Selfhosting für eigene Bots  
-• Web Dashboard für Bot Management  
-• Moderation, Games & Automation  
-• Node.js + Baileys Architektur  
+• Multi-Bot Infrastructure  
+• Self-Hosting System  
+• Web Dashboard for Bot Management  
+• WhatsApp Multi-Device Integration  
+• Automation, Moderation & Games  
+• Scalable Bot Architecture
 
 ---
 
-# 🚀 Aktuelles Projekt | Current Project
+# 🚀 Phoenix Platform
 
-<p align="center">
+Das Phoenix System besteht aus mehreren Komponenten:
 
-<a href="https://github.com/Exiqonbotz/phoenix-baileys-v2">
-<img src="https://img.shields.io/badge/🔥%20Phoenix%20Baileys%20V2-Active%20Development-ff4d4d?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+The Phoenix ecosystem consists of multiple systems:
 
-</p>
+• Phoenix Bots (Multi-Instance System)  
+• Phoenix Selfhosting  
+• Phoenix Website & Dashboards  
+• Bot Status API  
+• Team & User Management  
 
 ---
 
 # ⚙️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb,git,linux,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,javascript,mongodb,git,linux,docker&theme=dark">
 </p>
+
+Core Technologies:
+
+• Node.js  
+• Baileys (Custom Phoenix Version)  
+• MongoDB  
+• Express.js  
+• PM2 Process Management
 
 ---
 
@@ -64,48 +69,40 @@ with selfhosting and multi-bot infrastructure.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Exiqonbotz&show_icons=true&theme=radical&hide_border=true&icon_color=ff4d4d"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Exiqonbotz&show_icons=true&theme=radical&hide_border=true">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exiqonbotz&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exiqonbotz&layout=compact&theme=radical&hide_border=true">
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Development Activity
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Exiqonbotz&theme=radical&no-bg=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Exiqonbotz&theme=react-dark&hide_border=true">
 </p>
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Exiqonbotz&theme=react-dark&hide_border=true&color=ff4d4d&line=ff4d4d"/>
-</p>
-
----
-
-# 🌐 Connect
+# 🌐 Links
 
 <p align="center">
 
 <a href="https://phoenixgermany.com">
-<img src="https://img.shields.io/badge/🌐%20Website-phoenixgermany.com-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Website-phoenixgermany.com-orange?style=for-the-badge">
 </a>
 
 <a href="https://discord.gg/kMCGH3xFAw">
-<img src="https://img.shields.io/badge/Discord-Phoenix%20Community-5865F2?style=for-the-badge&logo=discord"/>
+<img src="https://img.shields.io/badge/Discord-Phoenix%20Community-5865F2?style=for-the-badge&logo=discord">
 </a>
 
 <a href="https://t.me/Exiqonoff2">
-<img src="https://img.shields.io/badge/Telegram-Exiqonoff2-0088cc?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/Telegram-Exiqonoff2-0088cc?style=for-the-badge&logo=telegram">
 </a>
 
 <a href="https://wa.me/491741711168">
-<img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp"/>
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp">
 </a>
 
 </p>
@@ -113,11 +110,5 @@ with selfhosting and multi-bot infrastructure.
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Exiqonbotz&color=ff4d4d&style=flat-square"/>
-</p>
-
----
-
-<p align="center">
-<b>Vivere diu Phoenix 🌃</b>
+<i>Vivere diu Phoenix 🌃</i>
 </p>
